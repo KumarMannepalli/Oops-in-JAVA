@@ -1,3 +1,5 @@
+//Bank Management System using Java OOP concepts like abstraction, inheritance, encapsulation, and polymorphism.
+
 package oops;
 
 import java.util.Scanner;
